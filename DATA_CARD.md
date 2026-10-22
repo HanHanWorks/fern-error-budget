@@ -12,10 +12,10 @@ the reference for method.
 | Content | Images of 152 fern species in 30 families, field photographs and herbarium specimens |
 | Sources | iNaturalist research-grade observations; GBIF, including iDigBio-digitised herbarium sheets |
 | Per-image annotations | image domain (field / specimen), data source (iNaturalist / GBIF), normalised country, species / genus / family under PPG I, licence and rights holder, source record ID and URL, image dimensions and SHA-1 |
-| Splits | 4,185 train / 882 validation / 902 test, group-aware by observation (3,585 groups) |
+| Splits | 4,185 train / 882 validation / 902 test, group-aware by observation (5,532 groups, none spanning a species or a split) |
 | Evaluation subsets | Seven over the test split: in-domain 902, field 640, specimen 262, iNaturalist 476, GBIF 426, well-sampled species 870, sparsely sampled 32 |
 | Open-set negatives | 700 images in eight groups: horsetail, lycophyte, liverwort-and-moss, cycad, palm, angiosperm, fungus, conifer |
-| Label annotations | 262 boxes, one per herbarium sheet, covering the printed label and accession line (median 5.7% of the frame) |
+| Label annotations | 262 boxes, one per herbarium sheet, covering the printed label and accession line (median 5.7% of the frame). `x1,y1,x2,y2` are on a 0-999 grid (`coord_scale` column), not pixels; `image_width/image_height` are the true pixel size and `box_area_fraction` is `(x2-x1)(y2-y1)/10^6` |
 | Redistributable images | 1,432 of 5,969 (24.0%) |
 | Tasks | Closed-set classification (152 classes), open-ended naming, five-way forced choice (label control), open-set rejection |
 
