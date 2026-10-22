@@ -1,0 +1,262 @@
+{
+  "run": "runs/bioclip2_linear_336",
+  "n": 902,
+  "species_top1": 0.9224,
+  "species_top3": 0.9778,
+  "family_top1_derived": 0.9712,
+  "family_macro": 0.96,
+  "ece_10bin": 0.1948,
+  "reliability": [
+    {
+      "bin": [
+        0.0,
+        0.1
+      ],
+      "n": 3,
+      "acc": 0.6667,
+      "conf": 0.0756
+    },
+    {
+      "bin": [
+        0.1,
+        0.2
+      ],
+      "n": 23,
+      "acc": 0.5217,
+      "conf": 0.151
+    },
+    {
+      "bin": [
+        0.2,
+        0.3
+      ],
+      "n": 39,
+      "acc": 0.5641,
+      "conf": 0.2496
+    },
+    {
+      "bin": [
+        0.3,
+        0.4
+      ],
+      "n": 50,
+      "acc": 0.74,
+      "conf": 0.3567
+    },
+    {
+      "bin": [
+        0.4,
+        0.5
+      ],
+      "n": 46,
+      "acc": 0.8696,
+      "conf": 0.4455
+    },
+    {
+      "bin": [
+        0.5,
+        0.6
+      ],
+      "n": 60,
+      "acc": 0.9167,
+      "conf": 0.5514
+    },
+    {
+      "bin": [
+        0.6,
+        0.7
+      ],
+      "n": 89,
+      "acc": 0.8989,
+      "conf": 0.6463
+    },
+    {
+      "bin": [
+        0.7,
+        0.8
+      ],
+      "n": 123,
+      "acc": 0.9593,
+      "conf": 0.7507
+    },
+    {
+      "bin": [
+        0.8,
+        0.9
+      ],
+      "n": 227,
+      "acc": 0.9868,
+      "conf": 0.8579
+    },
+    {
+      "bin": [
+        0.9,
+        1.0
+      ],
+      "n": 242,
+      "acc": 1.0,
+      "conf": 0.9375
+    }
+  ],
+  "coverage": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4,
+    0.45,
+    0.5,
+    0.55,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.95,
+    1.0
+  ],
+  "accuracy_at_coverage": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.9944,
+    0.9926,
+    0.9933,
+    0.9919,
+    0.9889,
+    0.9881,
+    0.981,
+    0.9749,
+    0.9709,
+    0.9674,
+    0.9568,
+    0.9428,
+    0.9224
+  ],
+  "latency_ms_mean": 22.55,
+  "latency_ms_p50": 18.77,
+  "throughput_img_s": 44.3,
+  "per_family": {
+    "Arthropteridaceae": {
+      "acc": 1.0,
+      "n": 5
+    },
+    "Aspleniaceae": {
+      "acc": 1.0,
+      "n": 5
+    },
+    "Athyriaceae": {
+      "acc": 0.9,
+      "n": 10
+    },
+    "Blechnaceae": {
+      "acc": 1.0,
+      "n": 41
+    },
+    "Cystopteridaceae": {
+      "acc": 1.0,
+      "n": 10
+    },
+    "Davalliaceae": {
+      "acc": 0.955,
+      "n": 22
+    },
+    "Dennstaedtiaceae": {
+      "acc": 0.964,
+      "n": 28
+    },
+    "Didymochlaenaceae": {
+      "acc": 0.6,
+      "n": 5
+    },
+    "Dryopteridaceae": {
+      "acc": 0.974,
+      "n": 273
+    },
+    "Gleicheniaceae": {
+      "acc": 0.964,
+      "n": 28
+    },
+    "Grammitidaceae": {
+      "acc": 1.0,
+      "n": 10
+    },
+    "Hymenophyllaceae": {
+      "acc": 0.958,
+      "n": 24
+    },
+    "Hypodematiaceae": {
+      "acc": 0.944,
+      "n": 18
+    },
+    "Lomariopsidaceae": {
+      "acc": 0.933,
+      "n": 15
+    },
+    "Lycopodiaceae": {
+      "acc": 1.0,
+      "n": 24
+    },
+    "Lygodiaceae": {
+      "acc": 1.0,
+      "n": 13
+    },
+    "Marattiaceae": {
+      "acc": 0.867,
+      "n": 15
+    },
+    "Marsileaceae": {
+      "acc": 1.0,
+      "n": 7
+    },
+    "Nephrolepidaceae": {
+      "acc": 1.0,
+      "n": 11
+    },
+    "Onocleaceae": {
+      "acc": 1.0,
+      "n": 28
+    },
+    "Ophioglossaceae": {
+      "acc": 1.0,
+      "n": 24
+    },
+    "Osmundaceae": {
+      "acc": 1.0,
+      "n": 12
+    },
+    "Pleurosoriopsidaceae": {
+      "acc": 1.0,
+      "n": 5
+    },
+    "Polypodiaceae": {
+      "acc": 0.98,
+      "n": 204
+    },
+    "Psilotaceae": {
+      "acc": 1.0,
+      "n": 8
+    },
+    "Pteridaceae": {
+      "acc": 0.935,
+      "n": 31
+    },
+    "Salviniaceae": {
+      "acc": 1.0,
+      "n": 5
+    },
+    "Tectariaceae": {
+      "acc": 0.905,
+      "n": 21
+    }
+  }
+}

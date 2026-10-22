@@ -1,0 +1,15 @@
+{
+  "n": 48,
+  "top1": 0.9375,
+  "top3": 1.0,
+  "macro_top1": 0.95,
+  "classes_seen": 25,
+  "domain_top1": {
+    "field": 0.9444444444444444,
+    "specimen": 0.9166666666666666
+  },
+  "domain_n": {
+    "field": 36,
+    "specimen": 12
+  }
+}

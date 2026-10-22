@@ -1,0 +1,53 @@
+id,kind,backbone,mode,img_size,extra,train_n,test_n,top1,top3,macro_top1,specimen_top1,field_top1,source_file
+bioclip2_ft,finetune,bioclip2,finetune,224,,4185,902,0.8914,0.969,0.8905,0.9046,0.8859,results/bioclip2_ft/test_metrics.json
+bioclip2_ft_336,finetune,bioclip2,finetune,336,,4185,902,0.9013,0.9723,0.8957,0.9122,0.8969,results/bioclip2_ft_336/test_metrics.json
+bioclip2_ft_hier,finetune,bioclip2,finetune,224,hier,4185,902,0.8614,0.9612,0.8504,0.8779,0.8547,results/bioclip2_ft_hier/test_metrics.json
+bioclip2_ft_lr5e5,finetune,bioclip2,finetune,224,,4185,902,0.8459,0.9534,0.8424,0.8855,0.8297,results/bioclip2_ft_lr5e5/test_metrics.json
+bioclip2_linear,finetune,bioclip2,linear,224,,4185,902,0.898,0.9767,0.8952,0.8969,0.8984,results/bioclip2_linear/test_metrics.json
+bioclip2_linear_336,finetune,bioclip2,linear,336,,4185,902,0.9235,0.9778,0.9227,0.9198,0.925,results/bioclip2_linear_336/test_metrics.json
+bioclip2_linear_336_s20261010,finetune,bioclip2,linear,336,,4185,902,0.9235,0.9778,0.9227,0.9198,0.925,results/bioclip2_linear_336_s20261010/test_metrics.json
+bioclip2_linear_336_s20261011,finetune,bioclip2,linear,336,,4185,902,0.9124,0.9789,0.9084,0.9084,0.9141,results/bioclip2_linear_336_s20261011/test_metrics.json
+bioclip2_linear_336_s20261012,finetune,bioclip2,linear,336,,4185,902,0.9058,0.9778,0.8999,0.9084,0.9047,results/bioclip2_linear_336_s20261012/test_metrics.json
+bioclip2_linear_bal,finetune,bioclip2,linear,224,class-balance,4185,902,0.898,0.969,0.8956,0.8893,0.9016,results/bioclip2_linear_bal/test_metrics.json
+dinov2_ft,finetune,dinov2,finetune,224,,4185,902,0.8592,0.9512,0.8516,0.8702,0.8547,results/dinov2_ft/test_metrics.json
+dinov2_linear,finetune,dinov2,linear,224,,4185,902,0.7927,0.9357,0.776,0.8015,0.7891,results/dinov2_linear/test_metrics.json
+dinov2_linear_336,finetune,dinov2,linear,336,,4185,902,0.8437,0.9412,0.8346,0.8626,0.8359,results/dinov2_linear_336/test_metrics.json
+dinov2_linear_336_s20261010,finetune,dinov2,linear,336,,4185,902,0.8437,0.9412,0.8346,0.8626,0.8359,results/dinov2_linear_336_s20261010/test_metrics.json
+dinov2_linear_336_s20261011,finetune,dinov2,linear,336,,4185,902,0.837,0.9435,0.8294,0.8626,0.8266,results/dinov2_linear_336_s20261011/test_metrics.json
+dinov2_linear_336_s20261012,finetune,dinov2,linear,336,,4185,902,0.8492,0.9468,0.8413,0.874,0.8391,results/dinov2_linear_336_s20261012/test_metrics.json
+geo_ex-CN,geo-transfer,bioclip2,linear,336,holdout=CN (train_n_species=146),3293,171,0.6959,0.8713,0.7392,0.7374,0.6389,results/geo_ex-CN/test_metrics.json
+geo_ex-CN_region,geo-transfer,bioclip2,linear,336,"holdout=CN,TW,HK,MO (train_n_species=130)",1902,367,0.6158,0.8447,0.6624,0.6842,0.5919,results/geo_ex-CN_region/test_metrics.json
+geo_ex-JP,geo-transfer,bioclip2,linear,336,holdout=JP (train_n_species=152),3901,59,0.7966,0.9831,0.8062,0.8,0.7949,results/geo_ex-JP/test_metrics.json
+geo_ex-RU,geo-transfer,bioclip2,linear,336,holdout=RU (train_n_species=152),4011,54,0.9259,0.9815,0.9226,1.0,0.9231,results/geo_ex-RU/test_metrics.json
+geo_ex-TH,geo-transfer,bioclip2,linear,336,holdout=TH (train_n_species=152),4029,31,0.6452,0.8065,0.6406,0.64,0.6667,results/geo_ex-TH/test_metrics.json
+geo_ex-TW,geo-transfer,bioclip2,linear,336,holdout=TW (train_n_species=145),2860,244,0.5615,0.7951,0.5966,1.0,0.5523,results/geo_ex-TW/test_metrics.json
+geo_ex-US,geo-transfer,bioclip2,linear,336,holdout=US (train_n_species=152),3963,47,0.9149,0.9787,0.9392,,0.9149,results/geo_ex-US/test_metrics.json
+geo_ex-VN,geo-transfer,bioclip2,linear,336,holdout=VN (train_n_species=151),4088,28,0.8214,0.9286,0.8095,0.7619,1.0,results/geo_ex-VN/test_metrics.json
+xfer_field2spec,transfer,bioclip2,linear,336,image_domain=specimen->image_domain=field,1166,156,0.6538,0.8013,0.726,,0.6538,results/xfer_field2spec/test_metrics.json
+xfer_gbif2inat,transfer,bioclip2,linear,336,source=GBIF->source=iNaturalist,1965,128,0.7891,0.9062,0.8071,,0.7891,results/xfer_gbif2inat/test_metrics.json
+xfer_inat2gbif,transfer,bioclip2,linear,336,source=iNaturalist->source=GBIF,2220,270,0.5,0.7111,0.5697,0.3395,0.7407,results/xfer_inat2gbif/test_metrics.json
+xfer_spec2field,transfer,bioclip2,linear,336,image_domain=field->image_domain=specimen,3019,210,0.4238,0.6286,0.4285,0.4238,,results/xfer_spec2field/test_metrics.json
+zeroshot_bioclip2,zero-shot,bioclip2,zero-shot,224,no training,0,902,0.6829,0.8381,0.6864,0.6069,0.7141,results/zeroshot_bioclip2.json
+bioclip2_ft_openset,open-set,,max-softmax,,AUROC=0.9701 TPR@FPR10=0.8758 n_neg=700,,902,,,,,,results/bioclip2_ft/openset_metrics.json
+bioclip2_ft_336_openset,open-set,,max-softmax,,AUROC=0.9666 TPR@FPR10=0.8858 n_neg=700,,902,,,,,,results/bioclip2_ft_336/openset_metrics.json
+bioclip2_ft_hier_openset,open-set,,max-softmax,,AUROC=0.9236 TPR@FPR10=0.7483 n_neg=700,,902,,,,,,results/bioclip2_ft_hier/openset_metrics.json
+bioclip2_linear_openset,open-set,,max-softmax,,AUROC=0.9634 TPR@FPR10=0.9047 n_neg=700,,902,,,,,,results/bioclip2_linear/openset_metrics.json
+bioclip2_linear_336_openset,open-set,,max-softmax,,AUROC=0.9666 TPR@FPR10=0.9302 n_neg=700,,902,,,,,,results/bioclip2_linear_336/openset_metrics.json
+dinov2_ft_openset,open-set,,max-softmax,,AUROC=0.9425 TPR@FPR10=0.8204 n_neg=700,,902,,,,,,results/dinov2_ft/openset_metrics.json
+dinov2_linear_336_openset,open-set,,max-softmax,,AUROC=0.9180 TPR@FPR10=0.7805 n_neg=700,,902,,,,,,results/dinov2_linear_336/openset_metrics.json
+bioclip2_ft_336_full,derived-full,,eval_full.py,,family=0.9678 fam_macro=0.9617 ece=0.0954 lat=24.03ms rc@cov0.25=0.9911,,902,0.9013,0.9723,,,,results/bioclip2_ft_336/full_metrics.json
+bioclip2_linear_336_full,derived-full,,eval_full.py,,family=0.9712 fam_macro=0.96 ece=0.1948 lat=22.55ms rc@cov0.25=1.0,,902,0.9224,0.9778,,,,results/bioclip2_linear_336/full_metrics.json
+dinov2_linear_336_full,derived-full,,eval_full.py,,family=0.9324 fam_macro=0.9204 ece=0.1971 lat=20.97ms rc@cov0.25=0.9956,,902,0.8448,0.9412,,,,results/dinov2_linear_336/full_metrics.json
+plantnet_all_test,baseline-api,Pl@ntNet,zero-shot API,,"902 ok / 8 rejected, 2 downscaled",0,902,0.2428,,,,,plantnet/raw_all_test.jsonl
+plantnet_k-china_test,baseline-api,Pl@ntNet,zero-shot API,,60 ok / 0 rejected,0,60,0.35,,,,,plantnet/raw_k-china_test.jsonl
+plantnet_k-world-flora_test,baseline-api,Pl@ntNet,zero-shot API,,60 ok / 0 rejected,0,60,0.3333,,,,,plantnet/raw_k-world-flora_test.jsonl
+vlm_qwen3-vl-8b-instruct_family30,baseline-vlm,qwen3-vl-8b-instruct,closed-set family (30-way),orig,902 ok / 0 err; chance=0.033,0,902,0.398,0.5843,,,,vlm/family30_qwen3-vl-8b-instruct_test.jsonl
+vlm_qwen3.7-flash_family30,baseline-vlm,qwen3.7-flash,closed-set family (30-way),orig,901 ok / 1 err; chance=0.033,0,901,0.3896,0.6182,,,,vlm/family30_qwen3.7-flash_test.jsonl
+vlm_qwen3-vl-8b-instruct,baseline-vlm,qwen3-vl-8b-instruct,open-ended,orig,902 ok / 0 err,0,902,0.1364,0.1663,,,,vlm/open_qwen3-vl-8b-instruct_test.jsonl
+vlm_qwen3-vl-8b-instruct_no-label-leak,baseline-vlm,qwen3-vl-8b-instruct,open-ended (leak removed),orig,824 clean images of 902,0,824,0.0825,,,,,vlm/text_ocr.jsonl
+vlm_qwen3.7-flash-2026-07-15,baseline-vlm,qwen3.7-flash-2026-07-15,open-ended,orig,901 ok / 1 err,0,901,0.1587,0.1876,,,,vlm/open_qwen3.7-flash-2026-07-15_test.jsonl
+vlm_qwen3.7-flash-2026-07-15_no-label-leak,baseline-vlm,qwen3.7-flash-2026-07-15,open-ended (leak removed),orig,824 clean images of 901,0,824,0.1092,,,,,vlm/text_ocr.jsonl
+vlm_qwen3-vl-8b-instruct_species152,baseline-vlm,qwen3-vl-8b-instruct,closed-set species (152-way),orig,902 ok / 3 err; chance=0.0066,0,902,0.2417,0.306,,,,vlm/species152_qwen3-vl-8b-instruct_test.jsonl
+vlm_qwen3-vl-8b-instruct_species152_no-label-leak,baseline-vlm,qwen3-vl-8b-instruct,"closed-set species (152-way, leak removed)",orig,824 clean images of 902,0,824,0.1833,,,,,vlm/text_ocr.jsonl
+vlm_qwen3.7-flash_species152,baseline-vlm,qwen3.7-flash,closed-set species (152-way),orig,901 ok / 904 err; chance=0.0066,0,901,0.3196,0.4151,,,,vlm/species152_qwen3.7-flash_test.jsonl
+vlm_qwen3.7-flash_species152_no-label-leak,baseline-vlm,qwen3.7-flash,"closed-set species (152-way, leak removed)",orig,824 clean images of 901,0,824,0.2609,,,,,vlm/text_ocr.jsonl

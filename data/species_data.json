@@ -1,0 +1,2022 @@
+{
+  "dataset": "中国蕨类植物识别测试数据集 (V3 合并版)",
+  "source": "中国高等植物彩色图鉴 第1卷&第2卷 蕨类植物",
+  "total_species": 155,
+  "species": [
+    {
+      "species_id": "FERNS_001",
+      "chinese_name": "南川石杉",
+      "latin_name": "Huperzia nanchuanensis",
+      "family": "石松科",
+      "family_latin": "Lycopodiaceae",
+      "morphology": "茎三至五回分枝，枝上部常有芽胞；叶片镰状弯曲，线状披针形，长达6毫米，基部宽约0.8毫米，密生，平直至略斜向上；孢子叶与不育叶同形",
+      "distribution": "云南、重庆、广西和湖北",
+      "habitat": "海拔1500-2000米的林下湿地或附生树干",
+      "image_refs": [
+        "images/page_2_img_in_image_box_339_107_694_573.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_002",
+      "chinese_name": "小杉兰",
+      "latin_name": "Huperzia selago",
+      "family": "石松科",
+      "family_latin": "Lycopodiaceae",
+      "morphology": "茎直立或斜生，一至四回二叉分枝；叶螺旋状排列，密生，斜向上或平伸，披针形；孢子叶与不育叶同形",
+      "distribution": "新疆和吉林；亚洲、太平洋岛屿、欧洲和美洲",
+      "habitat": "海拔1900-2300米的高山草甸上、石缝中、沟旁",
+      "image_refs": [
+        "images/page_2_img_in_image_box_701_107_1078_574.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_003",
+      "chinese_name": "蛇足石杉",
+      "latin_name": "Huperzia serrata",
+      "family": "石松科",
+      "family_latin": "Lycopodiaceae",
+      "morphology": "茎等二叉分枝；叶片卵形至椭圆状披针形，长5-15毫米，宽1-2.5毫米，最宽处靠近叶中部，柄长0.5-1.5毫米；孢子叶密生，平伸，披针形，长4-6毫米，宽0.5-1.5毫米",
+      "distribution": "黑龙江、吉林和辽宁；日本、朝鲜半岛和俄罗斯(远东地区)",
+      "habitat": "海拔400-1000米的干燥林下、路边",
+      "image_refs": [
+        "images/page_2_img_in_image_box_852_783_1080_1088.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_004",
+      "chinese_name": "长柄石杉",
+      "latin_name": "Huperzia javanica",
+      "family": "石松科",
+      "family_latin": "Lycopodiaceae",
+      "morphology": "茎等二叉分枝；不育叶疏生，平伸，阔椭圆形至倒披针形，基部明显变窄，长10-25毫米，宽2-6毫米，柄长1-5毫米；孢子叶稀疏，平伸或稍反卷，椭圆至披针形，长7-15毫米，宽1.5-3.5毫米",
+      "distribution": "中国西南、华南、华中和华东；亚洲热带和亚热带广布",
+      "habitat": "海拔300-1200米的林下、路边",
+      "image_refs": [
+        "images/page_3_img_in_image_box_338_95_745_620.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_005",
+      "chinese_name": "四川石杉",
+      "latin_name": "Huperzia sutchueniana",
+      "family": "石松科",
+      "family_latin": "Lycopodiaceae",
+      "morphology": "植株高小于15厘米；茎二至三回分枝，枝上部常有芽胞；叶平伸，上弯或略反折，披针形，边缘有齿，先端渐尖，中脉不明显；孢子叶与不育叶同形",
+      "distribution": "中国西南、华南、华中和华东",
+      "habitat": "海拔800-2000米的林下或灌丛下湿地、草地或岩石上",
+      "image_refs": [
+        "images/page_3_img_in_image_box_83_890_566_1444.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_006",
+      "chinese_name": "马尾杉",
+      "latin_name": "Huperzia phlegmaria",
+      "family": "石松科",
+      "family_latin": "Lycopodiaceae",
+      "morphology": "茎四至六回二叉分枝；叶明显为二型。营养叶斜展，卵状三角形，基部心形或近心形，具明显短柄；孢子叶较营养叶小；孢子囊穗下垂",
+      "distribution": "中国西南和华南；旧世界热带",
+      "habitat": "海拔100-2400米的阔叶苔藓林下，附生树干或生岩石上",
+      "image_refs": [
+        "images/page_4_img_in_image_box_80_819_564_1454.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_007",
+      "chinese_name": "华南马尾杉",
+      "latin_name": "Huperzia austrosinica",
+      "family": "石松科",
+      "family_latin": "Lycopodiaceae",
+      "morphology": "茎二至多回分枝；叶椭圆形，顶端圆钝，宽2.5-4.0毫米；营养叶平伸或略上斜，椭圆形；孢子叶稀疏，椭圆状披针形；孢子囊穗比不育部分略细瘦，非圆柱形",
+      "distribution": "中国西南、华南和华东",
+      "habitat": "海拔700-2000米的林下石壁上",
+      "image_refs": [
+        "images/page_5_img_in_image_box_326_92_626_466.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_008",
+      "chinese_name": "蕨萁",
+      "latin_name": "Botrychium daucifolium",
+      "family": "瓶尔小草科",
+      "family_latin": "Ophioglossaceae",
+      "morphology": "不育叶叶柄光滑，二到三回羽状复叶；不育叶羽片互生，草质，表面平滑，裂片具短柄，有白毛；能育叶自不育叶的叶柄顶端下方生出，高出营养叶",
+      "distribution": "中国西南、华南和华东",
+      "habitat": "海拔1300-2100米的土壤较湿润的阔叶林下",
+      "image_refs": [
+        "images/page_1_img_in_image_box_74_95_576_498.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_009",
+      "chinese_name": "阴地蕨",
+      "latin_name": "Botrychium ternatum",
+      "family": "瓶尔小草科",
+      "family_latin": "Ophioglossaceae",
+      "morphology": "营养叶片的柄光滑无毛，细长；叶片阔三角形，短尖头，三回羽状分裂；侧生羽片对生或近互生，有柄，叶薄肉质，裂片边缘有尖锯齿；孢子囊穗为圆锥状",
+      "distribution": "华南和华东；越南、朝鲜半岛、日本和喜马拉雅亦有",
+      "habitat": "海拔400-1000米的丘陵地灌丛阴处",
+      "image_refs": [
+        "images/page_1_img_in_image_box_76_966_391_1446.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_010",
+      "chinese_name": "七指蕨",
+      "latin_name": "Helminthostachys zeylanica",
+      "family": "瓶尔小草科",
+      "family_latin": "Ophioglossaceae",
+      "morphology": "根状茎横走，肉质；靠近顶部生出一或二片叶，叶柄草质，绿色；叶片由三裂分枝的不育叶片和一直立的孢子叶穗组成，自柄端分离；叶二型，营养叶扇形，能育叶穗状；孢子囊穗单生，直立，通常高出不育叶",
+      "distribution": "云南南部；热带亚洲亦有",
+      "habitat": "海拔300-500米的湿润雨林中",
+      "image_refs": [
+        "images/page_2_img_in_image_box_77_104_427_622.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_011",
+      "chinese_name": "瓶尔小草",
+      "latin_name": "Ophioglossum vulgatum",
+      "family": "瓶尔小草科",
+      "family_latin": "Ophioglossaceae",
+      "morphology": "叶通常单生，总叶柄深埋土中，下半部为灰白色，较粗大；营养叶卵圆形或长圆形，基部下延；孢子叶自营养叶基部生出；孢子穗先端尖，远超出于营养叶之上",
+      "distribution": "中国西南、华南和华东；欧洲和美洲亦有",
+      "habitat": "海拔1300-3000米的山坡针叶林下",
+      "image_refs": [
+        "images/page_2_img_in_image_box_934_975_1075_1453.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_012",
+      "chinese_name": "松叶蕨",
+      "latin_name": "Psilotum nudum",
+      "family": "松叶蕨科",
+      "family_latin": "Psilotaceae",
+      "morphology": "根茎横走，圆柱形，褐色，具假根；地上茎直立，无毛或被鳞片，绿色，下部不分枝，上部多回二叉分枝，密生白色气孔；茎二歧分枝",
+      "distribution": "中国西南、华南和华东；世界上其他热带和亚热带区亦有",
+      "habitat": "海拔100-2000米的常绿阔叶林下，附生树干或岩石上",
+      "image_refs": [
+        "images/page_4_img_in_image_box_80_549_564_1096.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_013",
+      "chinese_name": "天星蕨",
+      "latin_name": "Christensenia aesculifolia",
+      "family": "合囊蕨科",
+      "family_latin": "Marattiaceae",
+      "morphology": "根状茎横走，肉质，粗壮，根长，肉质；叶疏生或近生；柄略被细毛，多汁草质，基部具两片小托叶，肉质；叶片阔卵形，基部近心脏形，叶片单一或掌状",
+      "distribution": "云南南部；亚洲热带亦有",
+      "habitat": "海拔300-900米的湿润雨林中",
+      "image_refs": [
+        "images/page_5_img_in_image_box_72_94_497_496.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_014",
+      "chinese_name": "福建观音座莲",
+      "latin_name": "Angiopteris fokiensis",
+      "family": "合囊蕨科",
+      "family_latin": "Marattiaceae",
+      "morphology": "根状茎直立，块状，粗根圆柱状；叶柄粗壮；叶片宽广，阔卵形；羽片互生，宽1-2厘米，小羽片先端渐尖，无倒行假脉；孢子囊群长圆形，棕色",
+      "distribution": "中国西南、华南和华东；日本亦有",
+      "habitat": "海拔300-800米的雨林中或较湿润的常绿阔叶林下",
+      "image_refs": [
+        "images/page_2_img_in_image_box_69_95_578_464.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_015",
+      "chinese_name": "亚洲桂皮紫萁",
+      "latin_name": "Osmundastrum asiaticum",
+      "family": "紫萁科",
+      "family_latin": "Osmundaceae",
+      "morphology": "叶二型，叶柄禾秆色；叶片长圆形或狭长圆形，渐尖头，二回羽状深裂；羽片深裂，小羽片先端渐尖；孢子叶比营养叶短而小，生中部",
+      "distribution": "中国西南、华南和东北；印度北部、尼泊尔、俄罗斯、朝鲜半岛和日本亦有",
+      "habitat": "海拔1600-3600米的山地针叶林下、溪流边或灌木丛中",
+      "image_refs": [
+        "images/page_3_img_in_image_box_341_101_733_583.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_016",
+      "chinese_name": "华南紫萁",
+      "latin_name": "Osmunda vachellii",
+      "family": "紫萁科",
+      "family_latin": "Osmundaceae",
+      "morphology": "叶柄棕禾秆色，坚硬，略有光泽；叶片长圆形，同形，羽片二型，一回羽状；能育羽片生叶片下部，宽1-2厘米，全缘",
+      "distribution": "中国西南、华南和华东；印度、越南、缅甸、老挝和泰国亦有",
+      "habitat": "海拔500-1600米的常绿阔叶林下",
+      "image_refs": [
+        "images/page_4_img_in_image_box_70_93_555_515.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_017",
+      "chinese_name": "紫萁",
+      "latin_name": "Osmunda japonica",
+      "family": "紫萁科",
+      "family_latin": "Osmundaceae",
+      "morphology": "叶柄禾秆色，直立；叶二型，或先端部分可育，能育叶与不育叶区别明显，叶片二回羽状",
+      "distribution": "中国西南、华南、华中和华东；印度、缅甸、越南、朝鲜半岛和日本亦有",
+      "habitat": "海拔1200-2200米的常绿阔叶林缘或针叶林缘",
+      "image_refs": [
+        "images/page_4_img_in_image_box_559_92_811_515.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_018",
+      "chinese_name": "华东膜蕨",
+      "latin_name": "Hymenophyllum barbatum",
+      "family": "膜蕨科",
+      "family_latin": "Hymenophyllaceae",
+      "morphology": "叶远生，叶柄疏被淡褐色的柔毛，叶轴有翅至基部；叶片卵形，二回羽裂；叶脉叉状分枝；叶薄膜质，半透明；孢子囊群生叶片的顶部，位于短裂片上",
+      "distribution": "华南和华东；南亚、东南亚和东北亚亦有",
+      "habitat": "海拔800-1000米的林下潮湿岩石或树干上",
+      "image_refs": [
+        "images/page_5_img_in_image_box_85_627_389_1093.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_019",
+      "chinese_name": "蕗蕨",
+      "latin_name": "Hymenophyllum badium",
+      "family": "膜蕨科",
+      "family_latin": "Hymenophyllaceae",
+      "morphology": "叶远生；叶柄褐色或绿褐色，翅平直或略呈波纹状，通常下延；叶片披针形至卵状披针形或卵形，三回羽裂；羽片互生，有短柄，开展；裂片全缘",
+      "distribution": "中国西南、华南和华东；东喜马拉雅、东南亚和日本亦有",
+      "habitat": "海拔200-1900米的常绿阔叶林下，附生树干或生岩石上",
+      "image_refs": [
+        "images/page_5_img_in_image_box_85_1099_568_1451.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_020",
+      "chinese_name": "瓶蕨",
+      "latin_name": "Vandenboschia auriculata",
+      "family": "膜蕨科",
+      "family_latin": "Hymenophyllaceae",
+      "morphology": "叶远生，沿根状茎两行，互生；叶柄短，灰褐色，基部被节状毛；叶片披针形，略二型，能育叶与不育叶相似，叶一回羽状至二回羽裂，叶轴翅狭或无翅",
+      "distribution": "中国西南、华南和华东；东喜马拉雅、东南亚和日本亦有",
+      "habitat": "海拔50-2200米的常绿阔叶林下，附生树干或生岩石上",
+      "image_refs": [
+        "images/page_3_img_in_image_box_332_93_791_492.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_021",
+      "chinese_name": "中华里白",
+      "latin_name": "Diplopterygium chinense",
+      "family": "里白科",
+      "family_latin": "Gleicheniaceae",
+      "morphology": "叶厚纸质；叶柄、羽轴、小羽轴密被棕色鳞片和星状毛；叶片巨大，二回羽状；羽片长圆形；小羽片互生，多数，宽达2厘米，裂片长6毫米",
+      "distribution": "中国西南、华南和华东；越南亦有",
+      "habitat": "海拔100-1100米的山坡阳处溪边或杂木林缘",
+      "image_refs": [
+        "images/page_5_img_in_image_box_72_1019_681_1444.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_022",
+      "chinese_name": "光里白",
+      "latin_name": "Diplopterygium laevissimum",
+      "family": "里白科",
+      "family_latin": "Gleicheniaceae",
+      "morphology": "叶柄绿色或暗棕色，基部被鳞片或疣状凸起，其他部分光滑；叶二回羽片对生，卵状长圆形，小羽片全裂，1.5-2.5厘米宽；裂片25-40对",
+      "distribution": "中国西南和华南；越南、菲律宾和日本亦有",
+      "habitat": "海拔500-2500米的林下、山坡、林缘",
+      "image_refs": [
+        "images/page_5_img_in_image_box_712_1020_1071_1443.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_023",
+      "chinese_name": "里白",
+      "latin_name": "Diplopterygium glaucum",
+      "family": "里白科",
+      "family_latin": "Gleicheniaceae",
+      "morphology": "叶二回羽状，羽片对生，长圆形；小羽片长11-14厘米，宽1.5厘米，近对生或互生，平展，线状披针形；裂片互生，宽披针形；中脉上面平，下面凸起，小脉10或11对",
+      "distribution": "中国西南、华南、东南、华中和华东；印度和日本亦有",
+      "habitat": "海拔300-2300米的灌木丛、山坡、林下、林缘",
+      "image_refs": [
+        "images/page_1_img_in_image_box_79_103_562_471.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_024",
+      "chinese_name": "芒萁",
+      "latin_name": "Dicranopteris pedata",
+      "family": "里白科",
+      "family_latin": "Gleicheniaceae",
+      "morphology": "植株高约1米，叶远生，棕禾秆色，光滑，基部以上无毛；叶轴二至三回二叉分枝；末回羽片15-35对；叶脉在羽片背面凸出分叉",
+      "distribution": "中国西南、华南和华东；亚洲热带和亚热带亦有",
+      "habitat": "海拔100-2000米的山坡阳处或林缘",
+      "image_refs": [
+        "images/page_3_img_in_image_box_595_1108_1078_1448.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_025",
+      "chinese_name": "海金沙",
+      "latin_name": "Lygodium japonicum",
+      "family": "海金沙科",
+      "family_latin": "Lygodiaceae",
+      "morphology": "能育叶和不育叶近二型；叶轴上面有2条狭边，羽片多数，对生，平展；不育羽片3裂，长约3厘米，宽约6毫米；小叶不为耳状，二回羽状；主脉明显，侧脉纤细",
+      "distribution": "中国西南、华南、华中和华东；东喜马拉雅、东南亚和日本亦有",
+      "habitat": "海拔600-2600米的常绿阔叶林下",
+      "image_refs": [
+        "images/page_2_img_in_image_box_87_102_621_603.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_026",
+      "chinese_name": "曲轴海金沙",
+      "latin_name": "Lygodium flexuosum",
+      "family": "海金沙科",
+      "family_latin": "Lygodiaceae",
+      "morphology": "叶三回羽状；羽片多数，能育叶与不育叶同形，对生，两侧平展，长圆三角形；小叶不为耳状，叶缘有细锯齿，宽1-3厘米",
+      "distribution": "中国西南和华南；南亚、东南亚和澳大利亚亦有",
+      "habitat": "海拔200-1800米的雨林中或较湿润的常绿阔叶林下",
+      "image_refs": [
+        "images/page_1_img_in_image_box_564_93_1067_480.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_027",
+      "chinese_name": "蘋",
+      "latin_name": "Marsilea quadrifolia",
+      "family": "蘋科",
+      "family_latin": "Marsileaceae",
+      "morphology": "根状茎细长横走，分枝，顶端被有淡棕色毛，茎节远离，向上发出一至数枚叶子；叶片为相等的四瓣；孢子囊双生或单生于短柄上，而柄着生于叶柄基部，长椭圆形",
+      "distribution": "中国西南、华南、华中、华北和华东；印度、东亚和欧洲亦有",
+      "habitat": "通常生长在水田、池潭或沼泽地中",
+      "image_refs": [
+        "images/page_5_img_in_image_box_331_93_812_583.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_028",
+      "chinese_name": "满江红",
+      "latin_name": "Azolla pinnata subsp. asiatica",
+      "family": "槐叶蘋科",
+      "family_latin": "Salviniaceae",
+      "morphology": "根状茎细长横走，侧枝腋生，假二歧分枝，向下生须根；叶小，互生，无柄，分裂为两片，有乳头凸起；孢子果双生于分枝处；大孢子果体积小，长卵形，顶部喙状；小孢子果体积远较大，圆球形或桃形",
+      "distribution": "中国大部分地区；亚洲和非洲亦有",
+      "habitat": "通常生长在水田或池潭中",
+      "image_refs": [
+        "images/page_1_img_in_image_box_332_104_1072_579.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_029",
+      "chinese_name": "乳头凤了蕨",
+      "latin_name": "Coniogramme rosthornii",
+      "family": "凤尾蕨科",
+      "family_latin": "Pteridaceae",
+      "morphology": "叶柄禾秆色至红紫色；叶片狭卵形或卵状三角形，二回羽状，下面密生乳头凸起，上生短硬毛；侧生小羽片披针形；水囊伸进叶缘齿或达齿基部；孢子囊群伸达离叶边不远处",
+      "distribution": "广布中国；不丹、印度、日本、朝鲜半岛、尼泊尔、俄罗斯和越南",
+      "habitat": "林下石上，海拔1000-3000米",
+      "image_refs": [
+        "images/page_1_img_in_image_box_572_90_1069_412.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_030",
+      "chinese_name": "灰背铁线蕨",
+      "latin_name": "Adiantum myriosorum",
+      "family": "凤尾蕨科",
+      "family_latin": "Pteridaceae",
+      "morphology": "根状茎短而直立；鳞片黑褐色，披针形；叶柄、叶轴和羽轴均为圆柱形；叶片线状披针形，先端渐尖，一回羽状；羽片新月形，近无柄，上侧边缘有细锯齿；假囊群盖圆形或长圆形，上部边缘微凹。小羽片4-6枚",
+      "distribution": "中国西南、华北、华东和西北",
+      "habitat": "海拔700-2500米的常绿阔叶林中或山坡灌丛中",
+      "image_refs": [
+        "images/page_1_img_in_image_box_70_93_677_533.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_031",
+      "chinese_name": "扇叶铁线蕨",
+      "latin_name": "Adiantum flabellulatum",
+      "family": "凤尾蕨科",
+      "family_latin": "Pteridaceae",
+      "morphology": "根状茎鳞片棕色，有光泽，钻状披针形；叶柄紫黑色，有光泽；叶轴和羽轴被毛；叶片扇形，二至三回不对称的二叉分枝；羽片扇形，两面光滑；孢子囊群每羽片2-5枚；囊群盖光滑，半圆形或长圆形",
+      "distribution": "中国西南、华南和华东",
+      "habitat": "海拔100-1100米的常绿阔叶林下",
+      "image_refs": [
+        "images/page_2_img_in_image_box_85_105_581_518.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_032",
+      "chinese_name": "铁线蕨",
+      "latin_name": "Adiantum capillus-veneris",
+      "family": "凤尾蕨科",
+      "family_latin": "Pteridaceae",
+      "morphology": "植株高15厘米以上；叶柄基部光滑；叶片卵状三角形，尖头，基部楔形，一至二回羽状；羽片上侧边缘2-4浅裂；孢子囊群每羽片生3-10枚；假囊群盖狭肾形或圆肾形",
+      "distribution": "中国西南、华南、华中和华东",
+      "habitat": "海拔100-2800米的山谷溪流边、针叶林下或路旁",
+      "image_refs": [
+        "images/page_1_img_in_image_box_83_675_308_1094.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_033",
+      "chinese_name": "书带蕨",
+      "latin_name": "Haplopteris flexuosa",
+      "family": "凤尾蕨科",
+      "family_latin": "Pteridaceae",
+      "morphology": "鳞片黄褐色，钻状披针形，长2-3毫米，先端纤毛状，边缘具睫毛状齿；叶柄短，基部被纤细的小鳞片；叶片线形，宽(0.5-)2-4(-11)厘米；中肋背面凸起，狭；孢子囊群线与中肋间距阔",
+      "distribution": "中国西南、华南、东南、华中和华东",
+      "habitat": "海拔100-3000米的常绿阔叶林下，附生树干或生岩石上",
+      "image_refs": [
+        "images/page_3_img_in_image_box_96_100_649_887.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_034",
+      "chinese_name": "蕨",
+      "latin_name": "Pteridium aquilinum subsp. japonicum",
+      "family": "碗蕨科",
+      "family_latin": "Dennstaedtiaceae",
+      "morphology": "叶片阔三角形或长圆三角形，近革质，近无毛或在背轴面有稀疏的毛；三回羽状；末回全缘裂片阔披针形至长圆形，彼此接近或彼此间的间隔宽不超过裂片的宽",
+      "distribution": "中国各地",
+      "habitat": "海拔200-3000米的山地、针叶林下或灌木丛中",
+      "image_refs": [
+        "images/page_2_img_in_image_box_88_1121_572_1450.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_035",
+      "chinese_name": "姬蕨",
+      "latin_name": "Hypolepis punctata",
+      "family": "碗蕨科",
+      "family_latin": "Dennstaedtiaceae",
+      "morphology": "根状茎长而横走，粗约3毫米，密被棕色毛；叶柄直径2-4毫米；叶片三或四回羽状分裂，疏被粗糙淡棕色腺状毛，长达2毫米；羽片卵状披针形，先端渐尖；孢子囊群生小脉顶端，无囊群盖",
+      "distribution": "中国西南、华南和华东",
+      "habitat": "海拔500-2300米的山坡灌丛、草地",
+      "image_refs": [
+        "images/page_3_img_in_image_box_590_1021_1074_1444.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_036",
+      "chinese_name": "溪洞碗蕨",
+      "latin_name": "Dennstaedtia wilfordii",
+      "family": "碗蕨科",
+      "family_latin": "Dennstaedtiaceae",
+      "morphology": "根状茎细长，横走，黑色，疏被棕色节状长毛；叶二列疏生或近生；叶柄光亮，基部栗棕色；叶片光滑，长圆披针形，先端渐尖或尾头，二至三回羽状深裂；羽片卵状阔披针形或披针形",
+      "distribution": "中国西南、华中、华东、华北和东北",
+      "habitat": "海拔1300-2400米的常绿阔叶林下",
+      "image_refs": [
+        "images/page_4_img_in_image_box_337_828_678_1449.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_037",
+      "chinese_name": "冷蕨",
+      "latin_name": "Cystopteris fragilis",
+      "family": "冷蕨科",
+      "family_latin": "Cystopteridaceae",
+      "morphology": "植株通常高20-30厘米；鳞片浅褐色阔披针形；叶近生或簇生；能育叶叶片披针形至阔披针形，通常二回羽裂至二回羽状，小羽片羽裂",
+      "distribution": "中国大部分地区",
+      "habitat": "海拔(200-)1500-4500(-4800)米的高山灌丛下、阴坡石缝中、岩石脚下或沟边湿地",
+      "image_refs": [
+        "images/page_5_img_in_image_box_70_97_554_426.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_038",
+      "chinese_name": "高山冷蕨",
+      "latin_name": "Cystopteris montana",
+      "family": "冷蕨科",
+      "family_latin": "Cystopteridaceae",
+      "morphology": "根状茎细长横走，黑褐色，无毛，疏被浅褐色的卵形膜质鳞片，先端鳞片较多；叶远生；能育叶叶柄下部黑褐色，无毛；叶片近五角形，三至四回羽状；末回裂片边缘不反卷",
+      "distribution": "中国大部分地区",
+      "habitat": "海拔1700-4500米的高山林下潮湿地方",
+      "image_refs": [
+        "images/page_5_img_in_image_box_583_526_1069_943.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_039",
+      "chinese_name": "齿果铁角蕨",
+      "latin_name": "Hymenasplenium cheilosorum",
+      "family": "铁角蕨科",
+      "family_latin": "Aspleniaceae",
+      "morphology": "鳞片披针形或线状披针形，深棕色，稍有虹色光泽，膜质，全缘；叶近生或疏生；叶柄栗褐色，有光泽；叶片线状披针形，一回羽状；羽片互生；孢子囊群仅生裂片，每一个裂片生1-2个",
+      "distribution": "中国西南、华南和华东",
+      "habitat": "海拔600-2200米的湿润的雨林中或土壤较湿润的常绿阔叶林下",
+      "image_refs": [
+        "images/page_3_img_in_image_box_605_107_1088_865.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_040",
+      "chinese_name": "边缘鳞盖蕨",
+      "latin_name": "Microlepia marginata",
+      "family": "碗蕨科",
+      "family_latin": "Dennstaedtiaceae",
+      "morphology": "叶片长圆形，一或二回羽状；羽片深裂至羽轴的1/2；末端小羽片宽不超过1厘米；侧生羽片羽状深裂，裂片皆无柄，贴生叶轴，小羽片锯齿状；孢子囊群圆形，每小裂片上1-6个，向边缘着生；囊群盖杯形",
+      "distribution": "中国西南、华南、东南、华中、华北和华东",
+      "habitat": "海拔100-1800米的林下或溪边",
+      "image_refs": [
+        "images/page_2_img_in_image_box_589_93_1074_452.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_041",
+      "chinese_name": "大型短肠蕨",
+      "latin_name": "Diplazium giganteum",
+      "family": "蹄盖蕨科",
+      "family_latin": "Athyriaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_1_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_042",
+      "chinese_name": "深绿短肠蕨",
+      "latin_name": "Diplazium viridissimum",
+      "family": "蹄盖蕨科",
+      "family_latin": "Athyriaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_2_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_043",
+      "chinese_name": "东方荚果蕨",
+      "latin_name": "Pentarhizidium orientale",
+      "family": "球子蕨科",
+      "family_latin": "Onocleaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_3_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_044",
+      "chinese_name": "中华东方荚果蕨",
+      "latin_name": "Pentarhizidium intermedium",
+      "family": "球子蕨科",
+      "family_latin": "Onocleaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_4_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_045",
+      "chinese_name": "球子蕨",
+      "latin_name": "Onoclea interrupta",
+      "family": "球子蕨科",
+      "family_latin": "Onocleaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_5_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_046",
+      "chinese_name": "荚果蕨",
+      "latin_name": "Matteuccia struthiopteris",
+      "family": "球子蕨科",
+      "family_latin": "Onocleaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_6_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_047",
+      "chinese_name": "顶芽狗脊",
+      "latin_name": "Woodwardia unigemmata",
+      "family": "乌毛蕨科",
+      "family_latin": "Blechnaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_8_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_048",
+      "chinese_name": "东方狗脊",
+      "latin_name": "Woodwardia orientalis",
+      "family": "乌毛蕨科",
+      "family_latin": "Blechnaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_9_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_049",
+      "chinese_name": "狗脊",
+      "latin_name": "Woodwardia japonica",
+      "family": "乌毛蕨科",
+      "family_latin": "Blechnaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_10_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_050",
+      "chinese_name": "崇澍蕨",
+      "latin_name": "Woodwardia harlandii",
+      "family": "乌毛蕨科",
+      "family_latin": "Blechnaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_11_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_051",
+      "chinese_name": "光叶藤蕨",
+      "latin_name": "Stenochlaena palustris",
+      "family": "乌毛蕨科",
+      "family_latin": "Blechnaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_12_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_052",
+      "chinese_name": "苏铁蕨",
+      "latin_name": "Brainea insignis",
+      "family": "乌毛蕨科",
+      "family_latin": "Blechnaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_13_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_053",
+      "chinese_name": "乌毛蕨",
+      "latin_name": "Blechnum orientale",
+      "family": "乌毛蕨科",
+      "family_latin": "Blechnaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_15_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_054",
+      "chinese_name": "翼盖蕨",
+      "latin_name": "Didymochlaena truncatula",
+      "family": "翼盖蕨科",
+      "family_latin": "Didymochlaenaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_16_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_055",
+      "chinese_name": "大膜盖蕨",
+      "latin_name": "Leucostegia truncata",
+      "family": "肿足蕨科",
+      "family_latin": "Hypodematiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_17_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_056",
+      "chinese_name": "肿足蕨",
+      "latin_name": "Hypodematium crenatum",
+      "family": "肿足蕨科",
+      "family_latin": "Hypodematiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_18_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_057",
+      "chinese_name": "海南肋毛蕨",
+      "latin_name": "Ctenitis decurrentipinnata",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_19_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_058",
+      "chinese_name": "直鳞肋毛蕨",
+      "latin_name": "Ctenitis eatonii",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_20_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_059",
+      "chinese_name": "银毛肋毛蕨",
+      "latin_name": "Ctenitis mannii",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_22_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_060",
+      "chinese_name": "毛枝蕨",
+      "latin_name": "Arachniodes miqueliana",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_23_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_061",
+      "chinese_name": "石盖蕨",
+      "latin_name": "Arachniodes superba",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_24_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_062",
+      "chinese_name": "大片复叶耳蕨",
+      "latin_name": "Arachniodes cavaleriei",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_25_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_063",
+      "chinese_name": "中华复叶耳蕨",
+      "latin_name": "Arachniodes chinensis",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_26_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_064",
+      "chinese_name": "大平鳞毛蕨",
+      "latin_name": "Dryopteris bodinieri",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_28_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_065",
+      "chinese_name": "大羽鳞毛蕨",
+      "latin_name": "Dryopteris wallichiana",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_29_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_066",
+      "chinese_name": "三角鳞毛蕨",
+      "latin_name": "Dryopteris subtriangularis",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_30_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_067",
+      "chinese_name": "半岛鳞毛蕨",
+      "latin_name": "Dryopteris peninsulae",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_31_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_068",
+      "chinese_name": "华北鳞毛蕨",
+      "latin_name": "Dryopteris goeringiana",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_32_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_069",
+      "chinese_name": "迷人鳞毛蕨",
+      "latin_name": "Dryopteris decipiens",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_33_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_070",
+      "chinese_name": "香鳞毛蕨",
+      "latin_name": "Dryopteris fragrans",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_35_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_071",
+      "chinese_name": "暗鳞鳞毛蕨",
+      "latin_name": "Dryopteris atrata",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_36_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_072",
+      "chinese_name": "阔鳞鳞毛蕨",
+      "latin_name": "Dryopteris championii",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_37_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_073",
+      "chinese_name": "红盖鳞毛蕨",
+      "latin_name": "Dryopteris erythrosora",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_38_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_074",
+      "chinese_name": "粗茎鳞毛蕨",
+      "latin_name": "Dryopteris crassirhizoma",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_39_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_075",
+      "chinese_name": "金冠鳞毛蕨",
+      "latin_name": "Dryopteris chrysocoma",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_40_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_076",
+      "chinese_name": "半育鳞毛蕨",
+      "latin_name": "Dryopteris sublacerae",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_42_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_077",
+      "chinese_name": "中华鳞毛蕨",
+      "latin_name": "Dryopteris chinensis",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_43_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_078",
+      "chinese_name": "边境界鳞毛蕨",
+      "latin_name": "Dryopteris marginata",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_44_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_079",
+      "chinese_name": "藏布鳞毛蕨",
+      "latin_name": "Dryopteris redactopinnata",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_45_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_080",
+      "chinese_name": "草质假复叶耳蕨",
+      "latin_name": "Dryopteris hasseltii",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_46_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_081",
+      "chinese_name": "顶囊轴鳞蕨",
+      "latin_name": "Dryopteris apiciflora",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_47_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_082",
+      "chinese_name": "红腺蕨",
+      "latin_name": "Dryopteris pseudocaenopteris",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_49_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_083",
+      "chinese_name": "刺齿贯众",
+      "latin_name": "Cyrtomium caryotideum",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_50_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_084",
+      "chinese_name": "全缘贯众",
+      "latin_name": "Cyrtomium falcatum",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_51_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_085",
+      "chinese_name": "贯众",
+      "latin_name": "Cyrtomium fortunei",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_52_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_086",
+      "chinese_name": "大叶贯众",
+      "latin_name": "Cyrtomium macrophyllum",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_53_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_087",
+      "chinese_name": "剑叶耳蕨",
+      "latin_name": "Polystichum xiphophyllum",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_55_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_088",
+      "chinese_name": "对马耳蕨",
+      "latin_name": "Polystichum tsus-simense",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_56_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_089",
+      "chinese_name": "革叶耳蕨",
+      "latin_name": "Polystichum neolobatum",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_57_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_090",
+      "chinese_name": "尼泊尔耳蕨",
+      "latin_name": "Polystichum nepalense",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_58_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_091",
+      "chinese_name": "玉龙蕨",
+      "latin_name": "Polystichum glaciale",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_59_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_092",
+      "chinese_name": "长鳞耳蕨",
+      "latin_name": "Polystichum longipaleatum",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_60_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_093",
+      "chinese_name": "布朗耳蕨",
+      "latin_name": "Polystichum braunii",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_62_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_094",
+      "chinese_name": "黑鳞耳蕨",
+      "latin_name": "Polystichum makinoi",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_63_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_095",
+      "chinese_name": "鞭叶蕨",
+      "latin_name": "Polystichum lepidocaulon",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_64_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_096",
+      "chinese_name": "华北耳蕨",
+      "latin_name": "Polystichum craspedosorum",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_65_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_097",
+      "chinese_name": "戟叶耳蕨",
+      "latin_name": "Polystichum tripteron",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_66_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_098",
+      "chinese_name": "柳叶蕨",
+      "latin_name": "Polystichum fraxinellum",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_67_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_099",
+      "chinese_name": "黄腺羽蕨",
+      "latin_name": "Pleocnemia winitii",
+      "family": "鳞毛蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_69_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_100",
+      "chinese_name": "刺蕨",
+      "latin_name": "Bolbitis appendiculata",
+      "family": "实蕨科",
+      "family_latin": "Lomariopsidaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_70_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_101",
+      "chinese_name": "华南实蕨",
+      "latin_name": "Bolbitis subcordata",
+      "family": "实蕨科",
+      "family_latin": "Lomariopsidaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_71_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_102",
+      "chinese_name": "舌蕨",
+      "latin_name": "Elaphoglossum conforme",
+      "family": "舌蕨科",
+      "family_latin": "Dryopteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_72_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_103",
+      "chinese_name": "网藤蕨",
+      "latin_name": "Lomagramma matthewii",
+      "family": "藤蕨科",
+      "family_latin": "Lomariopsidaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_73_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_104",
+      "chinese_name": "长叶肾蕨",
+      "latin_name": "Nephrolepis biserrata",
+      "family": "肾蕨科",
+      "family_latin": "Nephrolepidaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_74_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_105",
+      "chinese_name": "肾蕨",
+      "latin_name": "Nephrolepis cordifolia",
+      "family": "肾蕨科",
+      "family_latin": "Nephrolepidaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_76_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_106",
+      "chinese_name": "爬树蕨",
+      "latin_name": "Arthropteris palisotii",
+      "family": "爬树蕨科",
+      "family_latin": "Arthropteridaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_77_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_107",
+      "chinese_name": "毛轴牙蕨",
+      "latin_name": "Pteridrys australis",
+      "family": "叉蕨科",
+      "family_latin": "Tectariaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_78_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_108",
+      "chinese_name": "大齿叉蕨",
+      "latin_name": "Tectaria coadunata",
+      "family": "叉蕨科",
+      "family_latin": "Tectariaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_79_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_109",
+      "chinese_name": "下延叉蕨",
+      "latin_name": "Tectaria decurrens",
+      "family": "叉蕨科",
+      "family_latin": "Tectariaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_80_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_110",
+      "chinese_name": "叉蕨",
+      "latin_name": "Tectaria subtriphylla",
+      "family": "叉蕨科",
+      "family_latin": "Tectariaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_82_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_111",
+      "chinese_name": "华南蓧蕨",
+      "latin_name": "Oleandra cumingii",
+      "family": "骨碎补科",
+      "family_latin": "Davalliaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_83_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_112",
+      "chinese_name": "骨碎补",
+      "latin_name": "Davallia mariesii",
+      "family": "骨碎补科",
+      "family_latin": "Davalliaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_84_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_113",
+      "chinese_name": "阴石蕨",
+      "latin_name": "Davallia repens",
+      "family": "骨碎补科",
+      "family_latin": "Davalliaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_85_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_114",
+      "chinese_name": "中华剑蕨",
+      "latin_name": "Loxogramme chinensis",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_86_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_115",
+      "chinese_name": "秦岭槲蕨",
+      "latin_name": "Drynaria baronii",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_87_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_116",
+      "chinese_name": "槲蕨",
+      "latin_name": "Drynaria roosii",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_89_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_117",
+      "chinese_name": "崖姜蕨",
+      "latin_name": "Aglaomorpha coronans",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_90_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_118",
+      "chinese_name": "节肢蕨",
+      "latin_name": "Arthromeris lehmannii",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_91_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_119",
+      "chinese_name": "琉璃节肢蕨",
+      "latin_name": "Arthromeris himalayensis",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_92_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_120",
+      "chinese_name": "金鸡脚假瘤蕨",
+      "latin_name": "Selliguea hastata",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_93_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_121",
+      "chinese_name": "黑鳞假瘤蕨",
+      "latin_name": "Selliguea ebenipes",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_94_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_122",
+      "chinese_name": "三出假瘤蕨",
+      "latin_name": "Selliguea trisecta",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_96_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_123",
+      "chinese_name": "雨蕨",
+      "latin_name": "Selliguea dareiformis",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_97_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_124",
+      "chinese_name": "瓦氏鹿角蕨",
+      "latin_name": "Platycerium wallichii",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_98_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_125",
+      "chinese_name": "石韦",
+      "latin_name": "Pyrrosia lingua",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_99_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_126",
+      "chinese_name": "光石韦",
+      "latin_name": "Pyrrosia calvata",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_100_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_127",
+      "chinese_name": "华北石韦",
+      "latin_name": "Pyrrosia davidii",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_101_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_128",
+      "chinese_name": "毡毛石韦",
+      "latin_name": "Pyrrosia drakeana",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_103_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_129",
+      "chinese_name": "钱币石韦",
+      "latin_name": "Pyrrosia nummulariifolia",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_104_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_130",
+      "chinese_name": "有柄石韦",
+      "latin_name": "Pyrrosia petiolosa",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_105_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_131",
+      "chinese_name": "庐山石韦",
+      "latin_name": "Pyrrosia sheareri",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_106_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_132",
+      "chinese_name": "篦齿蕨",
+      "latin_name": "Goniophlebium manmeiense",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_107_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_133",
+      "chinese_name": "友水龙骨",
+      "latin_name": "Goniophlebium amoenum",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_109_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_134",
+      "chinese_name": "星蕨",
+      "latin_name": "Microsorum punctatum",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_110_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_135",
+      "chinese_name": "膜叶星蕨",
+      "latin_name": "Microsorum membranaceum",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_111_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_136",
+      "chinese_name": "线蕨",
+      "latin_name": "Leptochilus ellipticus",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_112_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_137",
+      "chinese_name": "曲边线蕨",
+      "latin_name": "Leptochilus ellipticus var. flexilobus",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_113_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_138",
+      "chinese_name": "宽羽线蕨",
+      "latin_name": "Leptochilus ellipticus var. pothifolius",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_114_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_139",
+      "chinese_name": "断线蕨",
+      "latin_name": "Leptochilus hemionitideus",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_116_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_140",
+      "chinese_name": "瓦韦",
+      "latin_name": "Lepisorus thunbergianus",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_117_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_141",
+      "chinese_name": "扭瓦韦",
+      "latin_name": "Lepisorus contortus",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_118_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_142",
+      "chinese_name": "大瓦韦",
+      "latin_name": "Lepisorus macrosphaerus",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_119_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_143",
+      "chinese_name": "两色瓦韦",
+      "latin_name": "Lepisorus bicolor",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_120_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_144",
+      "chinese_name": "白边瓦韦",
+      "latin_name": "Lepisorus morrisonensis",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_121_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_145",
+      "chinese_name": "高山瓦韦",
+      "latin_name": "Lepisorus eilophyllus",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_123_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_146",
+      "chinese_name": "扇蕨",
+      "latin_name": "Neocheiropteris palmatopedata",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_124_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_147",
+      "chinese_name": "盾蕨",
+      "latin_name": "Neolepisorus ovatus",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_125_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_148",
+      "chinese_name": "江南星蕨",
+      "latin_name": "Neolepisorus fortunei",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_126_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_149",
+      "chinese_name": "鳞果星蕨",
+      "latin_name": "Lepidomicrosorium buergerianum",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_127_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_150",
+      "chinese_name": "高平蕨",
+      "latin_name": "Lemmaphyllum squamatum",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_128_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_151",
+      "chinese_name": "伏石蕨",
+      "latin_name": "Lemmaphyllum carnosum var. microphyllum",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_130_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_152",
+      "chinese_name": "欧亚水龙骨",
+      "latin_name": "Polypodium vulgare",
+      "family": "水龙骨科",
+      "family_latin": "Polypodiaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_131_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_153",
+      "chinese_name": "睫毛蕨",
+      "latin_name": "Pleurosoriopsis makinoi",
+      "family": "睫毛蕨科",
+      "family_latin": "Pleurosoriopsidaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_132_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_154",
+      "chinese_name": "短柄禾叶蕨",
+      "latin_name": "Grammitis dorsipila",
+      "family": "禾叶蕨科",
+      "family_latin": "Grammitidaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_133_full.jpg"
+      ]
+    },
+    {
+      "species_id": "FERNS_155",
+      "chinese_name": "锯蕨",
+      "latin_name": "Micropolypodium okuboi",
+      "family": "禾叶蕨科",
+      "family_latin": "Grammitidaceae",
+      "morphology": "",
+      "distribution": "",
+      "habitat": "",
+      "image_refs": [
+        "images/page_134_full.jpg"
+      ]
+    }
+  ]
+}

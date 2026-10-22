@@ -1,0 +1,5 @@
+Benchmark,Scale (images),Taxa,Domain annotation,Geography annotation,Open-set negatives,Protocol
+"NGOI benchmark (New Guinea orchids; Saputra et al. 2026, arXiv:2609.24064)","16,701 photographs","1,350 spp. / 120 genera (Orchidaceae, New Guinea)",no (field photographs only),no (single island flora),"no (but distance-based open-set gate for unseen genera, AUROC 0.958)",fixed species-stratified partition; two-stage genus + FAISS species retrieval
+Pl@ntNet-300K,"306,146 (244k/31k/31k)","1,081 spp. (French flora)",no (field photographs only),no,no,random train/val/test split
+PlantCLEF 2025,"2,105 test quadrats + ~1.4M train single-plant images",~400 spp.,no (field imagery only),no,no,split by acquisition mode (close-up vs quadrat)
+This benchmark,"5,969 (4,185/882/902)",152 spp. / 30 families,yes (field / herbarium),"yes (country, 80 values)",yes (700 images / 8 groups),"group-aware by observation; domain, source and geography holdouts"

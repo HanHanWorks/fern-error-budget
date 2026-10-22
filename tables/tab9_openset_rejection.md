@@ -1,0 +1,13 @@
+**Table 9. Open-set rejection (700 negatives, 8 groups)**
+
+max-softmax as the rejection score. The cycad group ('fern-like non-fern') is the weakest across every model.
+
+| Model | AUROC | TPR@FPR5% | TPR@FPR10% | pos. conf. | neg. conf. | cycad rejection |
+|---|---:|---:|---:|---:|---:|---:|
+| bioclip2_ft | 0.9701 | 0.8182 | 0.8758 | 0.785 | 0.159 | 0.757 |
+| bioclip2_ft_336 | 0.9666 | 0.8060 | 0.8858 | 0.813 | 0.185 | 0.743 |
+| bioclip2_linear_336 | 0.9666 | 0.8426 | 0.9302 | 0.728 | 0.168 | 0.571 |
+| bioclip2_linear | 0.9634 | 0.8038 | 0.9047 | 0.708 | 0.167 | 0.600 |
+| dinov2_ft | 0.9425 | 0.6652 | 0.8204 | 0.657 | 0.137 | 0.686 |
+| bioclip2_ft_hier | 0.9236 | 0.6175 | 0.7483 | 0.793 | 0.283 | 0.786 |
+| dinov2_linear_336 | 0.9180 | 0.6386 | 0.7805 | 0.648 | 0.187 | 0.743 |

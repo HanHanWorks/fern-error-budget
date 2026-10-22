@@ -1,0 +1,15 @@
+system,task,domain,condition,n,correct,accuracy,ci_low,ci_high,delta_pp,flips_down,flips_up,mcnemar_p
+"BioCLIP 2, frozen, 336 px",152-way closed set,specimen,original,262,241,0.9198,0.8806,0.947,0.0,0,0,
+"BioCLIP 2, frozen, 336 px",152-way closed set,specimen,masked_control,262,239,0.9122,,,-0.76,2,0,0.48
+"BioCLIP 2, frozen, 336 px",152-way closed set,specimen,masked_label,262,233,0.8893,,,-3.05,8,0,0.0133
+"BioCLIP 2, frozen, 336 px",152-way closed set,specimen,net_label_effect (control vs masked),262,,,,,-2.29,6,0,0.0412
+"BioCLIP 2, frozen, 336 px",152-way closed set,field,original,120,113,0.9417,0.8845,0.9715,0.0,0,0,
+"BioCLIP 2, frozen, 336 px",152-way closed set,field,masked_control,120,110,0.9167,,,-2.5,4,1,0.371
+"BioCLIP 2, frozen, 336 px",152-way closed set,field,masked_label,120,110,0.9167,,,-2.5,4,1,0.371
+"BioCLIP 2, frozen, 336 px",152-way closed set,field,net_label_effect (control vs masked),120,,,,,0.0,1,1,0.48
+Qwen3-VL-8B-Instruct,5-way forced choice (chance 0.20),specimen,original,262,243,0.9275,0.8895,0.9531,0.0,0,0,
+Qwen3-VL-8B-Instruct,5-way forced choice (chance 0.20),specimen,masked_control,262,230,0.8779,,,-4.96,16,3,0.00591
+Qwen3-VL-8B-Instruct,5-way forced choice (chance 0.20),specimen,masked_label,262,136,0.5191,,,-40.84,110,3,2.03e-23
+Qwen3-VL-8B-Instruct,5-way forced choice (chance 0.20),specimen,net_label_effect (control vs masked),262,,,,,-35.88,101,7,3.59e-19
+Qwen3-VL-8B-Instruct,5-way forced choice (chance 0.20),field,original,60,30,0.5,0.3773,0.6227,0.0,0,0,
+Qwen3-VL-8B-Instruct,5-way forced choice (chance 0.20),field,masked_band,60,30,0.5,,,0.0,2,2,0.617

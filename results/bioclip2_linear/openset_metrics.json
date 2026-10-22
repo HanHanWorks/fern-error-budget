@@ -1,0 +1,24 @@
+{
+  "run": "runs/bioclip2_linear",
+  "n_pos": 902,
+  "n_neg": 700,
+  "auroc": 0.9634368070953436,
+  "pos_conf_mean": 0.708309470839022,
+  "neg_conf_mean": 0.16729128071240015,
+  "tpr_at_fpr5": 0.8037694013303769,
+  "threshold_fpr5": 0.47679731249809265,
+  "neg_reject_at_fpr5": 0.95,
+  "tpr_at_fpr10": 0.9046563192904656,
+  "threshold_fpr10": 0.316793292760849,
+  "neg_reject_at_fpr10": 0.9,
+  "reject_rate_by_group_at_fpr10": {
+    "angiosperm": 0.9809523809523809,
+    "bryophyte": 0.8571428571428571,
+    "conifer": 0.9714285714285714,
+    "cycad": 0.6,
+    "fungi": 0.9857142857142858,
+    "horsetail": 1.0,
+    "lycophyte_oos": 0.7,
+    "palm": 0.9428571428571428
+  }
+}

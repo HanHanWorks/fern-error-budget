@@ -1,0 +1,14 @@
+run,group,direction,seed,train_n,n_species,test_n,top1,top3,macro_top1,best_val_top1,epochs,sec_per_epoch,workers,note
+win_ref_linear_336,reference,all -> all,20261010,4185,152,902,0.91796,0.981153,0.909614,0.919501,15,76.4,8,"full 4185-image training set, no domain/source filter; supplies the in-domain baseline for every direction"
+xfer_sm1166_spec_to_field_s20261010,matched,specimen -> field,20261010,1166,71,156,0.621795,0.801282,0.682346,0.637931,15,26.5,8,common training budget 1166 images
+xfer_sm1166_spec_to_field_s20261011,matched,specimen -> field,20261011,1166,71,156,0.628205,0.782051,0.710221,0.626437,15,26.6,8,common training budget 1166 images
+xfer_sm1166_spec_to_field_s20261012,matched,specimen -> field,20261012,1166,71,156,0.621795,0.801282,0.692799,0.649425,15,26.6,8,common training budget 1166 images
+xfer_sm1166_field_to_spec_s20261010,matched,field -> specimen,20261010,1166,137,210,0.452381,0.661905,0.460169,0.502618,15,25.9,8,common training budget 1166 images
+xfer_sm1166_field_to_spec_s20261011,matched,field -> specimen,20261011,1166,137,210,0.42381,0.661905,0.439955,0.497382,15,25.8,8,common training budget 1166 images
+xfer_sm1166_field_to_spec_s20261012,matched,field -> specimen,20261012,1166,137,210,0.4,0.604762,0.417634,0.486911,15,25.8,8,common training budget 1166 images
+xfer_sm1166_gbif_to_inat_s20261010,matched,GBIF -> iNaturalist,20261010,1166,90,128,0.804688,0.9375,0.8322,0.82963,15,24.3,8,common training budget 1166 images
+xfer_sm1166_gbif_to_inat_s20261011,matched,GBIF -> iNaturalist,20261011,1166,90,128,0.820312,0.921875,0.825775,0.82963,15,24.3,8,common training budget 1166 images
+xfer_sm1166_gbif_to_inat_s20261012,matched,GBIF -> iNaturalist,20261012,1166,90,128,0.8125,0.914062,0.817082,0.844444,15,24.3,8,common training budget 1166 images
+xfer_sm1166_inat_to_gbif_s20261010,matched,iNaturalist -> GBIF,20261010,1166,122,270,0.474074,0.72963,0.546825,0.565693,15,27.3,8,common training budget 1166 images
+xfer_sm1166_inat_to_gbif_s20261011,matched,iNaturalist -> GBIF,20261011,1166,122,270,0.503704,0.718519,0.573454,0.60219,15,27.2,8,common training budget 1166 images
+xfer_sm1166_inat_to_gbif_s20261012,matched,iNaturalist -> GBIF,20261012,1166,122,270,0.477778,0.696296,0.548705,0.576642,15,27.3,8,common training budget 1166 images

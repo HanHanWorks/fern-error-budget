@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this benchmark or this code, please cite the paper and this repository."
+title: "Benchmark accuracy does not predict field accuracy: an error budget for automated species identification in environmental monitoring"
+abstract: >-
+  Code and derived data for a measurement of what a benchmark accuracy is worth
+  once the conditions of deployment stop matching the conditions of the
+  benchmark: 5,969 images of 152 fern species in 30 families from iNaturalist and
+  GBIF, per-image annotations of image domain, data source and country, grouped
+  splits by observation, 700 open-set negatives in eight groups, 262 annotated
+  label boxes for a masked-label control, and 32 released experimental runs.
+type: software
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/HanHanWorks/fern-error-budget"
+authors:
+  - name: "Authors withheld while the manuscript is under review"
+date-released: "2026-10-22"

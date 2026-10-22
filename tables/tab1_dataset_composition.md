@@ -1,0 +1,14 @@
+**Table 1. Composition of the fern benchmark**
+
+| Item | Value | Note |
+|---|---:|---:|
+| Images collected (full manifest) | 6,237 | dataset/manifest_full.csv |
+| Balanced working set (≤60 images/species) | 5,969 | 268 over-cap images dropped; manifest_balanced.csv |
+| — train / val / test | 4,185 / 882 / 902 | stratified by species, grouped by observation |
+| Species / families | 152 / 30 | PPG I accepted names |
+| Source: iNaturalist / GBIF | 3,157 / 2,812 | GBIF rows include iDigBio-digitised herbarium sheets |
+| Image domain: field / specimen | 4,300 / 1,669 | specimen share 28.0% |
+| Countries (country_clean, ISO-2) | 80 | UNK 330 rows (5.5%) |
+| Top countries | TW 1,886, CN 1,260, JP 391, UNK 330, US 316, RU 277 | full list in country_distribution.csv |
+| Open-set negatives | 700 | 8 groups (horsetail, lycophyte, moss, cycad, palm, angiosperm ×3, fungi, conifer) |
+| Licence: redistributable / restricted | 1,432 / 4,537 | 1,432 images (24%) cleared for public redistribution (release_manifest.csv) |

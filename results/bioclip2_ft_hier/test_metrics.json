@@ -1,0 +1,22 @@
+{
+  "backbone": "bioclip2",
+  "mode": "finetune",
+  "img_size": 224,
+  "hier": true,
+  "best_val_top1": 0.8367346938775511,
+  "test": {
+    "n": 902,
+    "top1": 0.8614190687361419,
+    "top3": 0.9611973392461197,
+    "macro_top1": 0.8503941798941799,
+    "classes_seen": 150,
+    "domain_top1": {
+      "specimen": 0.8778625954198473,
+      "field": 0.8546875
+    },
+    "domain_n": {
+      "specimen": 262,
+      "field": 640
+    }
+  }
+}

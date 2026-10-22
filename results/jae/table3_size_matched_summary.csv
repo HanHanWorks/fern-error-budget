@@ -1,0 +1,5 @@
+direction,orig_train_n,orig_top1,orig_in_domain,orig_delta_pp,matched_train_n,matched_top1_mean,matched_top1_sd,matched_n_seeds,matched_top1_seeds,in_domain,in_domain_hits,matched_delta_pp,delta_shift_pp,test_n
+specimen -> field,1166,0.6538,0.8526,-19.9,1166,0.6239,0.003,3,0.6218;0.6282;0.6218,0.859,134/156,-23.5,-3.6,156
+field -> specimen,3019,0.4238,0.9048,-48.1,1166,0.4254,0.0214,3,0.4524;0.4238;0.4000,0.9,189/210,-47.5,0.6,210
+GBIF -> iNaturalist,1965,0.7891,0.875,-8.6,1166,0.8125,0.0064,3,0.8047;0.8203;0.8125,0.8672,111/128,-5.5,3.1,128
+iNaturalist -> GBIF,2220,0.5,0.9,-40.0,1166,0.4852,0.0132,3,0.4741;0.5037;0.4778,0.9037,244/270,-41.9,-1.9,270

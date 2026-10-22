@@ -1,0 +1,24 @@
+{
+  "run": "runs/dinov2_linear_336",
+  "n_pos": 902,
+  "n_neg": 700,
+  "auroc": 0.9179885967690846,
+  "pos_conf_mean": 0.6477083789965266,
+  "neg_conf_mean": 0.18725711978439774,
+  "tpr_at_fpr5": 0.6385809312638581,
+  "threshold_fpr5": 0.5671175122261047,
+  "neg_reject_at_fpr5": 0.95,
+  "tpr_at_fpr10": 0.7804878048780488,
+  "threshold_fpr10": 0.3887632489204407,
+  "neg_reject_at_fpr10": 0.9,
+  "reject_rate_by_group_at_fpr10": {
+    "angiosperm": 0.9857142857142858,
+    "bryophyte": 0.9428571428571428,
+    "conifer": 0.9857142857142858,
+    "cycad": 0.7428571428571429,
+    "fungi": 1.0,
+    "horsetail": 0.8,
+    "lycophyte_oos": 0.6142857142857143,
+    "palm": 0.9571428571428572
+  }
+}

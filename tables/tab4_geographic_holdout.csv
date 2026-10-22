@@ -1,0 +1,9 @@
+Held-out region,Classes,train_n,test_n,held-out model,in-domain,Δ (pp),specimen share
+"Taiwan, China",145,2860,244,0.5615,0.9590,-39.8,0.02
+Mainland China,146,3293,171,0.6959,0.9006,-20.5,0.58
+"China region (incl. Taiwan, Hong Kong, Macao)",130,1902,367,0.6158,0.9428,-32.7,0.26
+Japan,152,3901,59,0.7966,0.9492,-15.3,0.34
+Thailand,152,4029,31,0.6452,0.7742,-12.9,0.81
+United States,152,3963,47,0.9149,0.9787,-6.4,0.00
+Russia,152,4011,54,0.9259,0.9815,-5.6,0.04
+Vietnam,151,4088,28,0.8214,0.8571,-3.6,0.75

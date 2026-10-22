@@ -1,0 +1,22 @@
+{
+  "backbone": "dinov2",
+  "mode": "finetune",
+  "img_size": 224,
+  "hier": false,
+  "best_val_top1": 0.828798185941043,
+  "test": {
+    "n": 902,
+    "top1": 0.8592017738359202,
+    "top3": 0.9512195121951219,
+    "macro_top1": 0.8516269841269841,
+    "classes_seen": 150,
+    "domain_top1": {
+      "specimen": 0.8702290076335878,
+      "field": 0.8546875
+    },
+    "domain_n": {
+      "specimen": 262,
+      "field": 640
+    }
+  }
+}
