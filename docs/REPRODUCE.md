@@ -21,7 +21,7 @@ matplotlib. Nothing here loads a model.
 ```bash
 python code/paper_artifacts/make_paper_tables.py --out out/tables
 python code/paper_artifacts/make_figures.py      --out out/figures
-python code/analysis/paired_significance.py      --out out/paired.csv
+python code/analysis/paired_significance.py      --boot 10000
 ```
 
 `make_paper_tables.py` reads the manifests, the splits, `results/registry.csv`

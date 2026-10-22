@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 python code/paper_artifacts/make_paper_tables.py --out /tmp/tables
 python code/paper_artifacts/make_figures.py     --out /tmp/figures
-python code/analysis/paired_significance.py     --results results/runs --out /tmp/paired.csv
+python code/analysis/paired_significance.py     --boot 10000
 ```
 
 `docs/REPRODUCE.md` maps every table and figure of the paper to the file that
